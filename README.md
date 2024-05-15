@@ -1,1 +1,1 @@
-# MegaMaid-using-the-A-algorithm
+# MegaMaid-using-the-A*-algorithm
